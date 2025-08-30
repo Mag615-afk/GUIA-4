@@ -72,4 +72,4 @@ El código utiliza widgets fundamentales de Flutter como:
 MaterialApp, Scaffold, AppBar, Center, Column y SizedBox para crear una estructura organizada y visualmente coherente. 
 Las imágenes se muestran con dimensiones fijas controladas por los contenedores SizedBox, 
 lo que garantiza una visualización consistente en diferentes dispositivos.
-*/
+*/ 
